@@ -1,0 +1,11 @@
+.next
+out
+.gitignore
+.eslintignore
+.prettierignore
+.gitkeep
+*svg
+*png
+*ico
+.env*
+yarn.lock

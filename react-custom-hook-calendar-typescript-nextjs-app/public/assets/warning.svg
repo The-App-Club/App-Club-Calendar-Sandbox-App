@@ -1,0 +1,11 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <path fill="none" d="M0 0h256v256H0z" />
+  <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"
+    style="stroke-width:6px" d="M50.271 42.598v15.674" />
+  <path
+    d="M44.62 17.521 11.246 77.078c-2.331 4.172.571 9.388 5.233 9.405h66.749c4.662-.017 7.564-5.233 5.234-9.405L55.087 17.521a5.935 5.935 0 0 0-10.444-.041l-.023.041Z"
+    fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"
+    style="stroke-width:6px" bx:origin="0.501855 0.493975" />
+  <circle cx="120.76" cy="171.891" r="12" style="stroke-width:2.45347px"
+    transform="matrix(.25103 0 0 .23966 19.685 30.225)" />
+</svg>
